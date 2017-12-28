@@ -1,2 +1,3 @@
 # Flappy-Bird-Neural-Network
-Automation of gameplay of flappy bird using neural network using keras
+Automation of gameplay of flappy bird using various statergies
+
